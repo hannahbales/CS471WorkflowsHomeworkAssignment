@@ -9,4 +9,8 @@ public class Main {
     public void name() {
         //this is a new method
     }
+
+    public void name2() {
+        //this is another new method
+    }
 }
